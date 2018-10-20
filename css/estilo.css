@@ -1,0 +1,58 @@
+body {
+background: #ffffff;
+color: #000000;
+font-family: 'Open Sans', 'Sans-serif';
+
+
+}
+
+*{
+margin: 0;
+padding: 0;
+
+
+}
+
+h1,h2,h3,h4,h5{
+
+color: #f47920;
+
+}
+
+h2 {
+
+	font-size: 60px;
+	color:  red;
+}
+ a{
+
+color: yellow;
+
+font-size: 30px;
+ }
+p{
+
+color:  red;
+font-size: 20px;
+
+
+}
+
+span{
+
+
+	color: yellow;
+
+}
+
+#principal p{
+
+	color:  #ccc;
+   font-size: 50px;
+padding: 10px;
+
+}
+
+
+
+

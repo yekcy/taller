@@ -1,0 +1,32 @@
+.container{
+
+	border: 3px solid yellow;
+ position:  relative;
+
+}
+
+nav{
+
+	border: 3px solid red;
+	position:  absolute;
+	left: 0;
+	width: 200px;
+}
+
+section{
+
+	border: 3px solid green;
+	margin-left: 200px;
+
+
+
+}
+
+footer{
+
+border: 3px solid black;
+position: fixed;
+bottom: 0;
+
+
+
